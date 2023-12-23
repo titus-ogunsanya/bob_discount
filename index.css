@@ -1,0 +1,47 @@
+:root {
+    --blue; violet;
+    --yellow; yellow;
+    --fs-30: 30px;
+    --fs-20: 20px;
+    --ff serif; sam serif}
+
+
+    /* Element selector */
+   #para-one{
+background-color:blue;
+
+   }
+   #para-two{
+    font-family:sans-serif;
+    background-color: aquamarine;
+    word-spacing: .25em;
+   }
+    .box{
+        height: 300px;
+        width: 300px;
+        background-color: aqua;
+        border: 1px solid blue;}
+    
+   .lorem-ip{
+    border: 1px solid rgb(255, 0, 140);
+    width: 275px;
+border: 2px solid #0088dd;
+margin: auto;
+padding: 30px;}
+
+li {
+    display: inline;
+    margin:right;
+    text-decoration-line: line-through;
+}
+button{
+    padding: 20px 40px;
+    margin: 20px;
+    border: 2px solid gold;
+    font-size: 30px;
+
+
+
+}
+   
+    
